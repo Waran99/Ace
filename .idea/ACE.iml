@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/AceBadminton/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/AceBadminton/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/AceBadminton/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/AceBadminton/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/polyfill-php81" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/laravel/sanctum" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/laravel/sail" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/facade/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/fruitcake/laravel-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/livewire/livewire" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/storage/app" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/storage/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/stripe/stripe-php" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/laravel/ui" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/sabberworm/php-css-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/moneyphp/money" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/laravel/cashier" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/masterminds/html5" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/dompdf/dompdf" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/phenx/php-svg-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/phenx/php-font-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/AceBadminton/vendor/symfony/polyfill-intl-icu" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
